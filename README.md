@@ -1,6 +1,6 @@
 # Name : Jagruthi-21bce7179 
 #### Task status :
-- [ ] Day 1 HTML Introduction - HTML Attributes
+- [-] Day 1 HTML Introduction - HTML Attributes
 - [ ] Day 2 HTML Headings - HTML CSS
 - [ ] Day 3 HTML Links - HTML Lists
 - [ ] Day 4 HTML Block & Inline - HTML Responsive 
